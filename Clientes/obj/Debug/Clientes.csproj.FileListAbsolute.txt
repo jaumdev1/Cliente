@@ -1,0 +1,8 @@
+C:\Users\dev01\source\repos\Clientes\Clientes\bin\Debug\Clientes.exe.config
+C:\Users\dev01\source\repos\Clientes\Clientes\bin\Debug\Clientes.exe
+C:\Users\dev01\source\repos\Clientes\Clientes\bin\Debug\Clientes.pdb
+C:\Users\dev01\source\repos\Clientes\Clientes\obj\Debug\Clientes.csproj.AssemblyReference.cache
+C:\Users\dev01\source\repos\Clientes\Clientes\obj\Debug\Clientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev01\source\repos\Clientes\Clientes\obj\Debug\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\dev01\source\repos\Clientes\Clientes\obj\Debug\Clientes.exe
+C:\Users\dev01\source\repos\Clientes\Clientes\obj\Debug\Clientes.pdb
